@@ -19,7 +19,7 @@ tri(); // => 3
 
 ### with [Skypack](https://www.skypack.dev/)
 
-``js
+```js
 import { one } from "https://cdn.skypack.dev/@azu/module-example"
 console.log(one()); // => 1
 ```
