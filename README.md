@@ -24,6 +24,15 @@ import { one } from "https://cdn.skypack.dev/@azu/module-example"
 console.log(one()); // => 1
 ```
 
+### with [Deno](https://deno.land/)
+
+Run `deno run app.ts`
+
+```js
+import { one } from "https://cdn.skypack.dev/@azu/module-example"
+console.log(one()); // => 1
+```
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/module-example/releases).
