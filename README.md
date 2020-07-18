@@ -2,6 +2,8 @@
 
 ES Modules example package
 
+- [@azu/module-example@1.0.3 | BundlePhobia](https://bundlephobia.com/result?p=@azu/module-example@1.0.3)
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
