@@ -15,6 +15,7 @@
   },
   "license": "MIT",
   "author": "azu",
+  "sideEffects": false,
   "main": "lib/module-example.js",
   "module": "module/module-example.js",
   "types": "lib/module-example.d.ts",
@@ -65,6 +66,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "sideEffects": false
+  }
 }
